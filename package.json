@@ -1,0 +1,23 @@
+{
+	"name": "customerapp",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"express": "*",
+		"body-parser": "*"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/tommyvanduyne/nodejsPractice.git"
+	},
+	"author": "Tom Van Duyne",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/tommyvanduyne/nodejsPractice/issues"
+	},
+	"homepage": "https://github.com/tommyvanduyne/nodejsPractice#readme"
+}
